@@ -1,0 +1,27 @@
+.logo {
+  &__link {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+
+  &__img {
+    width: 31px;
+    height: 26px;
+    margin-right: 7px;
+  }
+
+  &__text {
+    margin: 0;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: -0.1em;
+    text-align: left;
+    color: #fff;
+    text-transform: capitalize;
+  }
+}
