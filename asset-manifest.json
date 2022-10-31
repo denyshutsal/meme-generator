@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meme-generator/static/css/main.077f341a.css",
+    "main.js": "/meme-generator/static/js/main.1a7e7011.js",
+    "static/js/787.876f76cf.chunk.js": "/meme-generator/static/js/787.876f76cf.chunk.js",
+    "static/media/impact-webfont.woff": "/meme-generator/static/media/impact-webfont.df8641e951757036157c.woff",
+    "static/media/impact-webfont.woff2": "/meme-generator/static/media/impact-webfont.8ac153236d386f0b4391.woff2",
+    "index.html": "/meme-generator/index.html",
+    "main.077f341a.css.map": "/meme-generator/static/css/main.077f341a.css.map",
+    "main.1a7e7011.js.map": "/meme-generator/static/js/main.1a7e7011.js.map",
+    "787.876f76cf.chunk.js.map": "/meme-generator/static/js/787.876f76cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.077f341a.css",
+    "static/js/main.1a7e7011.js"
+  ]
+}
